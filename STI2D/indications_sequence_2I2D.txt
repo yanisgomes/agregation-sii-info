@@ -1,0 +1,79 @@
+Tu es un assistant qui doit **générer une séquence pédagogique complète de 3 semaines**
+pour une classe de terminale **STI2D – spécialité 2I2D**.
+La séquence doit respecter scrupuleusement les prescriptions suivantes :
+
+1. **Cadre réglementaire** : BO spécial n° 1 du 22 janv. 2019 et guide « Mise en œuvre 2I2D »
+– approche « matière-énergie-information » (MEI) et progression **progressive & spiralaire** .
+2. **Structure horaire** (3 semaines) :
+*Enseignements communs (EC)* ≈ **<HORAIRE_HEBDO_EC> h/semaine***Enseignements spécifiques (ES)* ≈ **<HORAIRE_HEBDO_ES> h/semaine**
+(rappel : 3-4 h EC / 8-9 h ES selon le BO) :contentReference[oaicite:0]{index=0}.
+3. **Compétences à mobiliser** (indiquer les numéros dans chaque séance) :
+    - **O1 Caractériser** - **O2 Identifier**
+    - **O3 Analyser** - **O4 Communiquer**
+    - **O5 Imaginer / concevoir**
+    - **O6 Simuler / interpréter**
+    - **O7 Expérimenter / valider** :contentReference[oaicite:1]{index=1}
+4. **Types DE SÉANCE (choisir uniquement dans cette liste exhaustive)** :
+    1. Cours dialogué d’introduction / synthèse (mise en contexte, structuration)
+    2. Étude de produit pluritechnologique (analyse fonctionnelle, structurelle, comportementale)
+    3. Activité d’expérimentation (mesures sur bancs d’essai, maquettes, validation)
+    4. Simulation numérique / jumeau numérique (validation multiphysique MEI)
+    5. Séance de créativité / brainstorming (recherche d’idées, divergence → convergence)
+    6. Prototypage rapide / test en FabLab (réalisation et itération)
+    7. Formalisation & communication (diagrammes SysML, pitch, poster ou vidéo)
+    8. Évaluation formative OU sommative (voir § 8)
+5. **Vocabulaire OBLIGATOIRE à réemployer** (au moins 1 terme par séance) :
+| Domaine | Termes clés |
+| Vision & finalités | approche MEI ; développement durable ; dimension socioculturelle / scientifique-technique / ingénierie-design |
+| Démarches | investigation ; résolution de problème ; **démarche de projet** (collaborative, pluri-technologique) ; expérimentation ; prototypage |
+| Modélisation | SysML (cas d’utilisation, exigences, blocs, états) ; **jumeau numérique** |
+| Conception / innovation | créativité ; design ; éco-conception ; rétro-conception ; dimensionnement ; solutions constructives |
+| Verbes d’action | analyser ; modéliser ; concevoir ; dimensionner ; simuler ; expérimenter ; valider ; argumenter ; évaluer |
+| Évaluation | performance énergétique ; conformité MEI ; validation essais ; soutenance orale |
+6. **Méthodologie officielle « Construire une séquence » à appliquer** :
+    - Une séquence = **ensemble cohérent d’activités** conduisant à la maîtrise progressive de compétences et de **connaissances associées**, avec **unité de sens** pour l’élève :contentReference[oaicite:2]{index=2}.
+    - Chaque activité s’appuie sur un **objet d’étude** (produit, système, maquette, dossier technique, prototype numérique…).
+    - Les activités s’organisent selon l’une des trois **démarches** : investigation, résolution de problème technique, projet :contentReference[oaicite:3]{index=3}.
+    - Le **dispositif d’évaluation** (diagnostique / formative / sommative) est pensé dès la conception de la séquence ; il sert aussi à la **remédiation et différenciation** :contentReference[oaicite:4]{index=4}.
+7. **Variables à REMPLACER avant exécution** :
+    - TITRE_SÉQUENCE = Etude cinématique et énergétique des chaînes de transformation de mouvement
+    - THÈME_NARRATIF = L’Homme assisté
+    - <PROBLÉMATIQUE_PRÉCISE> (phrase interrogative)
+    - HORAIRE_HEBDO_EC = 4 h
+    - HORAIRE_HEBDO_ES = 8h
+    - SPÉCIFICITÉS_ES ITEC : 10 élèves. ; SIN : 14 élèves
+
+1. **Format DE SORTIE EXIGÉ** (rien d’autre) :
+
+Séquence : <TITRE_SÉQUENCE> — Thème : <THÈME_NARRATIF> — Problématique : <PROBLÉMATIQUE_PRÉCISE>
+
+Cadre : Terminale STI2D 2I2D | 3 semaines (S1→S3) | Approche MEI – progression spiralaire
+
+### Plan détaillé sur 3 semaines
+
+| Sem. | Séance | Type (cf. § 4) | Objet d’étude proposé | Démarche (INV / RPT / PROJ) | Objectifs O# | Activités & contenus | Livrable | Évaluation & remédiation | Différenciation |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S1 | EC1 | … | … | … | … | … | … | … | … |
+| … | … | … | … | … | … | … | … | … | … |
+| (fin du tableau) |  |  |  |  |  |  |  |  |  |
+
+### Questions-fil rouge (3 max)
+
+- …
+
+• …
+
+• …
+
+### Indicateurs de réussite
+
+- Performance énergétique visée …
+
+• Conformité MEI (justifier par tests) …
+
+• Soutenance orale (critères) …
+
+**Règles supplémentaires pour la génération**
+- **Un objet d’étude distinct par activité**, cohérent avec le thème.
+- Respecter la **répartition horaire EC/ES** et numéroter clairement (ex. *S2.ES3*).
+- Mentionner **au moins un verbe d’action officiel** et un terme MEI dans chaque « Activités & contenus ».
