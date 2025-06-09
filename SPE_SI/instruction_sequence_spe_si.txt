@@ -1,0 +1,61 @@
+### Prompt “à trou” pour générer automatiquement une séquence pédagogique de **Spécialité Sciences de l’Ingénieur**
+
+*(copiez-collez tout le texte ci-dessous dans le modèle gratuit ; complétez uniquement les zones marquées `<<< … >>>` puis lancez la génération)*
+
+---
+
+Vous êtes **un assistant pédagogique** expert du programme français de Spécialité Sciences de l’Ingénieur (SI) en lycée général (classes de **Première et Terminale**).
+Votre mission est de **proposer une séquence de 3 semaines** (environ 6–7 séances de 2 h chacune) en respectant la philosophie, le vocabulaire et la progression prescrits par le référentiel officiel :
+
+#### 1. Philosophie et exigences à réinvestir
+
+* **Démarche scientifique affirmée** : observer → hypothèses → modéliser → simuler / expérimenter → analyser critique des résultats.
+* **Approche systémique** : produit = objet matériel + jumeau numérique dans son environnement.
+* **5 familles de compétences** : **Innover**, **Analyser**, **Modéliser**, **Expérimenter-simuler**, **Communiquer**.
+* **Méthodes pédagogiques clés** : démarche d’investigation, approche spiralaire, conduite de projet, travail collaboratif, design thinking/FabLab.
+* **Valeurs transversales** : créativité, esprit critique, responsabilité sociétale & environnementale, interdisciplinarité STEM.
+
+#### 2. Synthèse du programme à exploiter
+
+| Classe        | Objectifs & compétences visées                                                                                                                          | Thématiques principales                                                                                | Concepts & notions fondamentales                                                                                                | Méthodes pédagogiques                                                 | Modalités d’évaluation                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------- |
+| **Première**  | Premiers acquis dans les 5 familles ; focalisation sur l’analyse fonctionnelle/énergétique, les grandeurs effort/flux, et la communication scientifique | Territoires & produits intelligents • Homme assisté/réparé/augmenté • Design responsable & prototypage | Diagrammes fonctionnels/SysML de base • Lois de Kirchhoff • Schémas cinématiques • Structures algorithmiques simples (Python)   | Investigation guidée • Mini-projet 12 h • Réinvestissement spiralaire | Contrôle continu ; soutenance du mini-projet      |
+| **Terminale** | Approfondissement des 5 familles ; systèmes asservis, modélisation multi-physique, IA applicative, réseaux de communication                             | Idem Première mais niveau multi-physique + dimension sociétale/énergie/mobilité                        | Boucles d’asservissement • Systèmes d’ordre 0-1-2 • Inertie équivalente • IoT & protocoles • Résolution analytique vs numérique | Projet long 48 h • Ingénierie collaborative • Simulation avancée      | Écrit terminal sur tout le cycle + oral de projet |
+
+*(Vous pouvez piocher indifféremment dans l’une ou l’autre colonne selon que la séquence cible la Première ou la Terminale.)*
+
+---
+
+### 3. Consignes de sortie attendue
+
+Le modèle doit **produire UNIQUEMENT un tableau récapitulatif** ; aucune introduction ni conclusion.
+Structure du tableau :
+
+| Séance | Objectifs d’apprentissage (bullet points) | Activités / tâches (bullet points) | Compétences mobilisées | Notions / concepts | Méthodes pédagogiques | Mode d’évaluation rapide |
+| ------ | ----------------------------------------- | ---------------------------------- | ---------------------- | ------------------ | --------------------- | ------------------------ |
+
+* **Bullet points** concis dans chaque cellule (pas de phrases longues).
+* Les objectifs et activités doivent réemployer le vocabulaire du référentiel (**Innover, Analyser, Modéliser, Expérimenter-simuler, Communiquer**, démarche d’investigation, approche spiralaire, etc.).
+* Couvrir l’ensemble de la séquence (≈ 6–7 séances).
+* Inclure au moins une séance de prototypage ou de simulation, une de communication/argumentation, et un temps de régulation/évaluation formative.
+* Aucune explication hors tableau.
+
+---
+
+### 4. Variables à compléter avant envoi au modèle gratuit
+
+* **Niveau concerné** : `<<< Première / Terminale >>>`
+* **Thématique choisie (réf. programme)** : `<<< Exemple : “Homme assisté – Exosquelette de rééducation” >>>`
+* **Titre prévisionnel de la séquence** : `<<< Votre titre ici >>>`
+
+*(Laissez tout le reste strictement inchangé.)*
+
+---
+
+**Fin de la prompt — débute la zone à compléter :**
+
+```
+Niveau : <<< >>>  
+Thématique : <<< >>>  
+Titre de la séquence : <<< >>>  
+```

@@ -1,0 +1,47 @@
+## 1. Philosophie générale et cadre commun
+
+Le programme de Sciences de l’Ingénieur (SI) du cycle terminal s’appuie sur :
+
+- **Une réponse aux enjeux sociétaux et environnementaux** : former des ingénieurs capables d’imaginer des solutions intégrant dimensions matérielles et numériques, dans un cadre éthique et responsable.
+- **Une démarche scientifique affirmée** : observation → hypothèses → modélisation → simulation/expérimentation → analyse critique des résultats.
+- **Une approche systémique** des « produits » (objet + jumeau numérique) et de leur environnement ; le SysML n’est qu’un outil parmi d’autres pour la description.
+- **Des projets innovants** (12 h en 1ʳᵉ, 48 h en Tle) mobilisant design thinking, prototypage et travail d’équipe dans un espace type FabLab.
+- **Une logique STEM interdisciplinaire** (physique-chimie, numérique, mathématiques) préparant l’accès à l’enseignement supérieur scientifique.
+
+Ces principes irriguent les deux années ; la terminale reprend toutes les notions de première et les porte à un niveau d’exigence supérieur, l’évaluation finale couvrant l’ensemble du cycle.
+
+---
+
+## 2. Tableau synthétique – Classe de **Première**
+
+| Volet demandé | Éléments clés (1ʳᵉ) |
+| --- | --- |
+| **1. Objectifs & compétences** | Premiers acquis dans les 5 familles de compétences : Innover (rompre/améliorer l’existant), Analyser (besoin, énergie, protocole), Modéliser (hypothèses simplificatrices, schémas, circuits), Expérimenter-simuler (sécurité, ordre de grandeur), Communiquer (restitution de résultats, travail collaboratif) |
+| **2. Thématiques principales** | *Territoires & produits intelligents* ; *Homme assisté, réparé, augmenté* ; *Design responsable & prototypage* (supports d’activités, cours, TD, projet) |
+| **3. Concepts & notions fondamentales** | Éléments d’histoire des innovationsDiagrammes fonctionnels/SysML de baseGrandeurs effort/flux, puissances, rendementsLois de Kirchhoff ; schémas cinématiquesStructures algorithmiques simples (Python) |
+| **4. Méthodes pédagogiques** | Démarche d’investigation, projet court de **12 h** (équipes, défi), utilisation d’outils numériques & FabLab ; approche spiralaire : chaque nouveau concept est réinvesti dans les activités suivantes |
+| **5. Modalités d’évaluation** | Attestation d’acquisition des contenus « 1e » (contrôle continu, activités notées, soutenance du mini-projet). Ces acquis restent mobilisables en Tle et comptent pour l’évaluation de fin de cycle |
+
+---
+
+## 3. Tableau synthétique – Classe de **Terminale**
+
+| Volet demandé | Éléments clés (Tle) |
+| --- | --- |
+| **1. Objectifs & compétences** | Approfondissement et mise en synergie des cinq familles : • **Innover** : méthodes agiles, veille, design d’interface ; • **Analyser** : IA (machine-learning applicatif), asservissements, réseaux ; • **Modéliser** : systèmes d’ordre 0-1-2, dynamique, inertie ; • **Expérimenter & simuler** : validation de modèles, optimisation ; • **Communiquer** : argumentation experte, documentation de code, préparation à l’oral terminal |
+| **2. Thématiques principales** | Thèmes identiques à la 1ʳᵉ mais abordés à un niveau multi-physique (mécanique, électro-signal, numérique) et intégrant la dimension sociétale / environnementale (énergie, mobilité, santé) |
+| **3. Concepts & notions fondamentales** | Systèmes asservis (boucle fermée, correcteur P)Modélisation multi-physique & jumeau numériqueÉquations dynamiques, inertie équivalenteProtocoles de communication, IoT, modulation numériqueMéthodes de simulation : résolution analytique vs numérique |
+| **4. Méthodes pédagogiques** | Projet long de **48 h** : conception–prototypage–validation, note interdisciplinaire (physique + autre spécialité) ; ingénierie collaborative, itérations design–test ; exploitation poussée des outils de simulation et de prototypage rapide |
+| **5. Modalités d’évaluation** | Évaluation terminale couvrant les deux années : • épreuves écrites sur tout le programme ; • épreuve orale basée sur le projet (argumentation, note interdisciplinaire) ; • prise en compte des compétences expérimentales et de la communication scientifique |
+
+---
+
+## 4. Progression & continuité entre 1ʳᵉ et Terminale
+
+- **Approfondissement systémique** : la 1ʳᵉ introduit la lecture fonctionnelle et énergétique d’un produit ; la Tle ajoute la boucle d’asservissement, l’IA et la gestion réseau, renforçant la vision « produit-système ».
+- **Complexification des modèles** : on passe d’hypothèses simplifiées et lois de base à la résolution d’équations d’ordre 2, à la multi-physique et aux simulations numériques avancées.
+- **Amplification de l’innovation** : le mini-projet de 12 h sert d’initiation ; le projet de 48 h exige une solution originale, un prototype physique + numérique et une validation argumentée devant jury.
+- **Montée en compétences transversales** : communication orale, travail collaboratif et veille technologique sont exercés dès la 1ʳᵉ puis évalués à haut niveau en Tle (oral terminal).
+- **Évaluation cumulative** : les savoirs de 1ʳᵉ, certifiés en contrôle continu, sont réinvestis et vérifiés de nouveau lors des épreuves finales couvrant l’ensemble du cycle.
+
+Ainsi, le programme construit un continuum où les bases posées en première deviennent les briques de projets ambitieux en terminale, tout en développant la créativité, l’esprit critique, le sens de l’innovation et la maîtrise de la communication scientifique exigés du futur ingénieur.
