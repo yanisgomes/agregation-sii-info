@@ -1,0 +1,8 @@
+Production attendue
+Une séance à caractère expérimental pertinente doit être proposée après avoir :
+- situé cette séance dans la séquence pédagogique (objectifs et prérequis) ;
+- décrit l'organisation matérielle et pédagogique de la séance (nombre d'élèves, systèmes utilisés, travail en îlots ou autres) ;
+- décrit et justifié la (ou les) démarche(s) pédagogique(s) retenue(s) (démarche d'investigation, de résolution de problème technique, de projet ...) ;
+- détaillé le scénario des activités que doivent réaliser les élèves sur le support didactisé à l'aide des documents fournis ci-après ;
+- réalisé concrètement au moins une des activités expérimentales proposées dans la séance développée. Cette activité doit être nouvelle et différente de celles réalisées dans la partie 1.3. Préciser l'objectif de la manipulation entreprise, proposer et mettre en œuvre son protocole expérimental comme le feraient les élèves et analyser les résultats obtenus ;
+- explicité clairement l'apport de la séance proposée dans le développement des savoir-faire et compétences des élèves.
